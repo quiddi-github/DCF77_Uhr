@@ -1,4 +1,8 @@
 # DCF77 Uhr
+Stand 6.3.2022\
+\
+Es wurden zwei Änderungen gemacht. Zum einen wurde der Temperatursensor kalibriert. Dies beinhaltet die Funktion TempKalib. Zum anderen kann die Uhr nun die Kalenderwoche anzeigen. Dargestellt ist dies in IMG_2129.jpg.\
+\
 Stand 26.12.2020\
 \
 Ein Programm um mit einem Arduino-Nano-Clone eine Funkuhr über DCF77 zu betreiben. Es ist auch ein handgezeichneter Schaltplan beigefügt.\
